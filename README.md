@@ -116,7 +116,7 @@ You can view the design prototype on Figma [here](https://www.figma.com/design/t
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## webite images
+## website images
 
 
 
