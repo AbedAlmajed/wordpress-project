@@ -115,3 +115,23 @@ You can view the design prototype on Figma [here](https://www.figma.com/design/t
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+## webite images
+
+
+
+![Screenshot 2024-10-23 003802](https://github.com/user-attachments/assets/03a8d2cf-b288-4401-bd90-b3e87b251e41)
+
+
+
+![Screenshot 2024-10-23 003835](https://github.com/user-attachments/assets/d7b096a4-7fcd-46e1-ae35-fb13f47fa9be)
+![Screenshot 2024-10-23 003901](https://github.com/user-attachments/assets/1a845339-a82f-4cb8-a2e4-931caf6ccd4c)
+![Screenshot 2024-10-23 003933](https://github.com/user-attachment![Screenshot 2024-10-23 004052](https://github.com/user-attachments/assets/c652c681-ebbe-4f94-be58-0b5c341b13b6)
+s![Screenshot 2024-10-23 004032](https://github.com/user-attachments/assets/f87d35c1-7e9f-47ab-8ea9-1bc44b06956f)
+/assets/c239703a-548a-47bc-946c-083de22d462f)![Screenshot 2024-10-23 004000](https://github.com/user-attachments/assets/50af3fd6-1242-4624-ac28-023ed68d2cda)
+
+![Screenshot 2024-10-23 004202](https://github.com/user-attachments/assets/8a4597ee-baa8-4138-ae9b-c759a33a8f46)![Screenshot 2024-10-23 004247](https://github.com![Screenshot 2024-10-23 004305](https://github.com/user-attachments/assets/c50d1ccb-d55a-4944-b8e7-bad262f416d6)
+/user-attachments/assets/3d951bcb-98cb-4fd4-a752-408b780bdcae)
+
+
+![Screenshot 2024-10-23 004141](https://github.com/user-attachments/assets/97e47832-fc25-4578-9570-19d8f7c20ec4)
