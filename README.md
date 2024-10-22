@@ -107,6 +107,11 @@ This project is a fully responsive Online Learning Management System (LMS) built
 
 You can view the design prototype on Figma [here](https://www.figma.com/design/tbd7Y3yOXGYaJBN79lfCbs/wordpress?node-id=1-544&t=ZAexkCKjiHK7dCuu-1).
 
+## Trello
+ [Trello](https://trello.com/b/XDMzpucT/wordpress).
+
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
